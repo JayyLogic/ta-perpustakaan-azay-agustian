@@ -92,11 +92,10 @@ TA_Perpustakaan/
 |-- .gitignore
 |-- build.xml
 |-- manifest.mf
-|-- PANDUAN_GITHUB.md
 `-- README.md
 ```
 
-Catatan: folder `build/`, `dist/`, `tmp/`, `template_laporan/`, `instruksi_tugas/`, dan `nbproject/private/` tidak dimasukkan ke repository karena berisi hasil build, file kerja sementara, template, atau konfigurasi lokal.
+Catatan: folder hasil build dan konfigurasi lokal NetBeans tidak dimasukkan ke repository karena sudah diatur pada `.gitignore`.
 
 ## Database
 
@@ -219,4 +218,4 @@ https://github.com/JayyLogic/ta-perpustakaan-java-swing
 
 ## Catatan
 
-Folder `build/`, `dist/`, `tmp/`, `template_laporan/`, `instruksi_tugas/`, dan `nbproject/private/` tidak perlu di-upload ke GitHub karena sudah dimasukkan ke `.gitignore`.
+Folder hasil build dan konfigurasi lokal IDE tidak perlu di-upload ke GitHub karena sudah dimasukkan ke `.gitignore`.
