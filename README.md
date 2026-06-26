@@ -48,7 +48,6 @@ TA_Perpustakaan/
 |   `-- db_perpustakaan_231011402845.sql
 |-- laporan/
 |   |-- Laporan_Data_Buku_Perpustakaan.pdf
-|   |-- Laporan_Tugas_Akhir_Aplikasi_Perpustakaan_Azay_Agustian.docx
 |   `-- Laporan_Tugas_Akhir_Aplikasi_Perpustakaan_Azay_Agustian.pdf
 |-- lib/
 |   `-- mysql-connector-j-9.7.0.jar
@@ -166,8 +165,6 @@ Jika MySQL lokal menggunakan password, sesuaikan nilai `PASSWORD`.
 
 ## Screenshot Aplikasi
 
-Nama file screenshot disusun sesuai urutan tampilan aplikasi pada laporan.
-
 ### Gambar 1 Halaman Login
 
 ![Gambar 1 Halaman Login](screenshots/Gambar%201%20Halaman%20Login.png)
@@ -192,7 +189,7 @@ Screenshot lengkap tersedia di folder `screenshots/`, yaitu:
 
 ## Laporan
 
-File laporan tugas akhir, laporan data buku aplikasi, dan laporan editable DOCX tersedia di folder:
+File laporan tugas akhir dan laporan data buku aplikasi tersedia di folder:
 
 ```text
 laporan/
