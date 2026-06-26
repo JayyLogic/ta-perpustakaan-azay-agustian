@@ -95,8 +95,6 @@ TA_Perpustakaan/
 `-- README.md
 ```
 
-Catatan: folder hasil build dan konfigurasi lokal NetBeans tidak dimasukkan ke repository karena sudah diatur pada `.gitignore`.
-
 ## Database
 
 Nama database:
@@ -199,23 +197,3 @@ File laporan tugas akhir, laporan data buku aplikasi, dan laporan editable DOCX 
 ```text
 laporan/
 ```
-
-Catatan: sebelum submit ke Google Form, buka file DOCX laporan tugas akhir, cek daftar isi/layout, lalu export ke PDF.
-
-## Repository GitHub
-
-Rekomendasi nama repository:
-
-```text
-ta-perpustakaan-java-swing
-```
-
-Contoh link setelah di-upload:
-
-```text
-https://github.com/JayyLogic/ta-perpustakaan-java-swing
-```
-
-## Catatan
-
-Folder hasil build dan konfigurasi lokal IDE tidak perlu di-upload ke GitHub karena sudah dimasukkan ke `.gitignore`.
