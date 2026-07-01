@@ -48,7 +48,7 @@ TA_Perpustakaan/
 |   `-- db_perpustakaan_231011402845.sql
 |-- laporan/
 |   |-- Laporan_Data_Buku_Perpustakaan.pdf
-|   `-- Laporan_Tugas_Akhir_Aplikasi_Perpustakaan_Azay_Agustian.pdf
+|   `-- UAS_Pemrograman2_231011402845_AzayAgustian.pdf
 |-- lib/
 |   `-- mysql-connector-j-9.7.0.jar
 |-- nbproject/
